@@ -3,4 +3,4 @@
 This repository was created by Official BlockAudit Team.
 
 
-![Certificate_BNBPig](https://user-images.githubusercontent.com/81981737/147563691-589337cf-e197-415a-9ec2-49a636425149.jpg)
+![bnbpig](https://user-images.githubusercontent.com/121312707/235407560-dd437f81-84a8-4ee0-a7df-575f6c5718a4.png)
